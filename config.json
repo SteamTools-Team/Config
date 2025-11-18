@@ -1,0 +1,9 @@
+{
+  "version": "9545",
+  "websiteurl": "https://steamtools.ayka.dev",
+  "discordurl": "https://discord.gg/GrSCq4DreV",
+  "githuburl": "https://github.com/SteamTools-Team",
+  "creditpseudo": "ayka.dev",
+  "gamesjsonurl": "https://raw.githubusercontent.com/SteamTools-Team/GameList/refs/heads/main/games.json",
+  "manifestapiurl": "https://generator.ryuu.lol/secure_download"
+}
