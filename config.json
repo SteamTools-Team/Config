@@ -4,6 +4,6 @@
   "discordurl": "https://steamtools.app/discord",
   "githuburl": "https://github.com/SteamTools-Team",
   "creditpseudo": "0obx",
-  "gamesjsonurl": "https://raw.githubusercontent.com/SteamTools-Team/GameList/refs/heads/main/games.json",
+  "gamesjsonurl": "https://generator.ryuu.lol/files/games.json",
   "manifestapiurl": "https://generator.ryuu.lol/secure_download"
 }
